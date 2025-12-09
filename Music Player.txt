@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Player</title>
+</head>
+<body>
+    <h2>Audio Player</h2>
+    <h2>Hum Saath Saath Hai</h2>
+    <p>Click any song to play</p>
+
+    <audio controls>
+         <source src="C:\Users\user\Desktop\Workshop\Songs\A B C D E F G song.mp3"type="audio/mpeg">
+    </audio>
+    <br>
+
+     <audio controls>
+         <source src="C:\Users\user\Desktop\Workshop\Songs\Chote chote bhaiyon ke.mp3"type="audio/mpeg">
+    </audio>
+    <br>
+
+     <audio controls>
+         <source src="C:\Users\user\Desktop\Workshop\Songs\Hum saath saath hai.mp3"type="audio/mpeg">
+    </audio>
+    <br>
+
+     <audio controls>
+         <source src="C:\Users\user\Desktop\Workshop\Songs\Maiya yashoda.mp3"type="audio/mpeg"type="audio/mpeg">
+    </audio>
+    <br>
+
+     <audio controls>
+         <source src="C:\Users\user\Desktop\Workshop\Songs\Mhare Hiwra main nache.mp3"type="audio/mpeg"type="audio/mpeg">
+    </audio>
+    <br>
+        
+
+</body>
+</html>
